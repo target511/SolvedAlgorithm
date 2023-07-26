@@ -9,11 +9,13 @@
 </details>
 <details>
   <summary>day 18</summary>
+  
 - [BOJ 1912(연속합)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1912(%EC%97%B0%EC%86%8D%ED%95%A9).cpp)
 - [BOJ 9095(1, 2, 3 더하기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B9095(1%2C%202%2C%203%20%EB%8D%94%ED%95%98%EA%B8%B0).cpp)
 </details>
 <details>
   <summary>day 19</summary>
+  
 - [BOJ 14501(퇴사)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B14501(%ED%87%B4%EC%82%AC).cpp)
 - [BOJ 2775(부녀회장)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2775(%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5).cpp)
 - [BOJ 7568(덩치)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B7568(%EB%8D%A9%EC%B9%98).cpp)
@@ -22,6 +24,7 @@
 </details>
 <details>
   <summary>day 20</summary>
+  
 - [BOJ 2667(단지번호붙이기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2667(%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0).cpp)
 - [BOJ 1966(프린터 큐)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1966(%ED%94%84%EB%A6%B0%ED%84%B0%20%ED%81%90).cpp)
 - [BOJ 2606(바이러스)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2606(%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4).cpp)
@@ -30,11 +33,13 @@
 </details>
 <details>
   <summary>day 21</summary>
+  
 - [BOJ 14500(테트로미노)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B14500(%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8).cpp)
 - [BOJ 14889(스타트와 링크)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B14889(%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC%2C%20%EC%A1%B0%ED%95%A9).cpp)
 </details>
 <details>
   <summary>day 18</summary>
+  
 - [BOJ 14888(연산자 끼워넣기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B14888(%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0).cpp)
 - [BOJ 7576(토마토)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B7576(%ED%86%A0%EB%A7%88%ED%86%A0).cpp)
 - [BOJ 1260(BFS와 DFS)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1260(BFS%EC%99%80%20DFS).cpp)
@@ -42,6 +47,7 @@
 </details>
 <details>
   <summary>day 25</summary>
+  
 - [BOJ 2644(촌수계산)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2644(%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0).cpp)
 - [BOJ 2178(미로탐색)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2178(%EB%AF%B8%EB%A1%9C%20%ED%83%90%EC%83%89).cpp)
 - [BOJ 5014(스타트링크)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B5014(%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC).cpp)
