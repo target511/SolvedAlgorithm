@@ -55,7 +55,7 @@
 - [BOJ 1697(숨바꼭질)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1697(%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88).cpp)
 </details>
 <details>
-  <summary>day 25</summary>
+  <summary>day 26</summary>
   
 - [BOJ 10026(적록색약)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B10026(%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD).cpp)
 - [BOJ 1012(유기농배추)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1012(%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94).cpp)
