@@ -54,3 +54,12 @@
 - [BOJ 2468(안전영역)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2468(%EC%95%88%EC%A0%84%20%EC%98%81%EC%97%AD).cpp)
 - [BOJ 1697(숨바꼭질)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1697(%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88).cpp)
 </details>
+<details>
+  <summary>day 25</summary>
+  
+- [BOJ 10026(적록색약)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B10026(%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD).cpp)
+- [BOJ 1012(유기농배추)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1012(%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94).cpp)
+- [BOJ 4179(불!)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B4179(%EB%B6%88).cpp)
+- [BOJ 1600(말이 되고픈 원숭이)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1600(%EB%A7%90%EC%9D%B4%20%EB%90%98%EA%B3%A0%ED%94%88%20%EC%9B%90%EC%88%AD%EC%9D%B4).cpp)
+- [BOJ 4963(섬의개수)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B4963(%EC%84%AC%EC%9D%98%EA%B0%9C%EC%88%98).cpp)
+</details>
