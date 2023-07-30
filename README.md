@@ -38,7 +38,7 @@
 - [BOJ 14889(스타트와 링크)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B14889(%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80%20%EB%A7%81%ED%81%AC%2C%20%EC%A1%B0%ED%95%A9).cpp)
 </details>
 <details>
-  <summary>day 18</summary>
+  <summary>day 24</summary>
   
 - [BOJ 14888(연산자 끼워넣기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B14888(%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0).cpp)
 - [BOJ 7576(토마토)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B7576(%ED%86%A0%EB%A7%88%ED%86%A0).cpp)
