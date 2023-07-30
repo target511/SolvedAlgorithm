@@ -88,4 +88,11 @@
   - [BOJ 7562(나이트의이동)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B7562(%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%EC%9D%B4%EB%8F%99).cpp)
   - [BOJ 6593(상범빌딩)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B6593(%EC%83%81%EB%B2%94%EB%B9%8C%EB%94%A9).cpp)
   </details>
+  <details>
+    <summary>day 30</summary>
+
+  - [BOJ 5427(불)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B5427(%EB%B6%88).cpp)
+  - [BOJ 16234(인구이동)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B16234(%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99).cpp)
+  - [BOJ 2206(벽부수고이동하기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2206(%EB%B2%BD%EB%B6%80%EC%88%98%EA%B3%A0%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0).cpp)
+  </details>
 </details>
