@@ -63,13 +63,13 @@
 - [BOJ 1600(말이 되고픈 원숭이)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1600(%EB%A7%90%EC%9D%B4%20%EB%90%98%EA%B3%A0%ED%94%88%20%EC%9B%90%EC%88%AD%EC%9D%B4).cpp)
 - [BOJ 4963(섬의개수)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B4963(%EC%84%AC%EC%9D%98%EA%B0%9C%EC%88%98).cpp)
 </details>
-<deatils>
+<details>
   <summary>day 27</summary>
 
 - [BOJ 14502(연구소)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B14502(%EC%97%B0%EA%B5%AC%EC%86%8C).cpp)
 - [BOJ 2583(영역구하기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2583(%EC%98%81%EC%97%AD%EA%B5%AC%ED%95%98%EA%B8%B0).cpp)
 - [BOJ 2304(창고다각형)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2304(%EC%B0%BD%EA%B3%A0%EB%8B%A4%EA%B0%81%ED%98%95).cpp)
-</deatils>
+</details>
 <details>day 28
   <summary>day 28</summary>
 
