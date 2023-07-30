@@ -63,3 +63,26 @@
 - [BOJ 1600(말이 되고픈 원숭이)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1600(%EB%A7%90%EC%9D%B4%20%EB%90%98%EA%B3%A0%ED%94%88%20%EC%9B%90%EC%88%AD%EC%9D%B4).cpp)
 - [BOJ 4963(섬의개수)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B4963(%EC%84%AC%EC%9D%98%EA%B0%9C%EC%88%98).cpp)
 </details>
+<deatils>
+  <summary>day 27</summary>
+
+- [BOJ 14502(연구소)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B14502(%EC%97%B0%EA%B5%AC%EC%86%8C).cpp)
+- [BOJ 2583(영역구하기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2583(%EC%98%81%EC%97%AD%EA%B5%AC%ED%95%98%EA%B8%B0).cpp)
+- [BOJ 2304(창고다각형)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2304(%EC%B0%BD%EA%B3%A0%EB%8B%A4%EA%B0%81%ED%98%95).cpp)
+</deatils>
+<details>day 28
+  <summary>day 28</summary>
+
+- [BOJ 3985(롤케이크)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B3985(%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC).cpp)
+- [BOJ 13300(방배정)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B13300(%EB%B0%A9%EB%B0%B0%EC%A0%95).cpp)
+- [BOJ 3052(나머지)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B3052(%EB%82%98%EB%A8%B8%EC%A7%80).cpp)
+- [BOJ 1592(영식이와친구들)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1592(%EC%98%81%EC%8B%9D%EC%9D%B4%EC%99%80%EC%B9%9C%EA%B5%AC%EB%93%A4).cpp)
+</details>
+<details>
+  <summary>day 29</summary>
+
+- [BOJ 2851(슈퍼마리오)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2851(%EC%8A%88%ED%8D%BC%EB%A7%88%EB%A6%AC%EC%98%A4).cpp)
+- [BOJ 1926(그림)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1926(%EA%B7%B8%EB%A6%BC).cpp)
+- [BOJ 7562(나이트의이동)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B7562(%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%EC%9D%B4%EB%8F%99).cpp)
+- [BOJ 6593(상범빌딩)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B6593(%EC%83%81%EB%B2%94%EB%B9%8C%EB%94%A9).cpp)
+</details>
