@@ -95,4 +95,13 @@
   - [BOJ 16234(인구이동)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B16234(%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99).cpp)
   - [BOJ 2206(벽부수고이동하기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2206(%EB%B2%BD%EB%B6%80%EC%88%98%EA%B3%A0%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0).cpp)
   </details>
+  <details>
+    <summary>day 31</summary>
+
+  - [BOJ 11724(연결요소)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B11724(%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C).cpp)
+  - [BOJ 11725(트리의부모찾기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B11725(%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%B6%80%EB%AA%A8%EC%B0%BE%EA%B8%B0).cpp)
+  - [BOJ 1325(효율적인해킹)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1325(%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%ED%95%B4%ED%82%B9).cpp)
+  - [BOJ 1987(알파벳)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1987(%EC%95%8C%ED%8C%8C%EB%B2%B3).cpp)
+  - [BOJ 1520(내리막길)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B1520(%EB%82%B4%EB%A6%AC%EB%A7%89%EA%B8%B8).cpp)
+  </details>
 </details>
