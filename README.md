@@ -72,7 +72,7 @@
   - [BOJ 2583(영역구하기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2583(%EC%98%81%EC%97%AD%EA%B5%AC%ED%95%98%EA%B8%B0).cpp)
   - [BOJ 2304(창고다각형)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B2304(%EC%B0%BD%EA%B3%A0%EB%8B%A4%EA%B0%81%ED%98%95).cpp)
   </details>
-  <details>day 28
+  <details>
     <summary>day 28</summary>
   
   - [BOJ 3985(롤케이크)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.07/B3985(%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC).cpp)
