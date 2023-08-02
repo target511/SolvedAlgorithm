@@ -115,4 +115,12 @@
   - [BOJ 2668(숫자고르기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B2668(%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0).cpp)
   - [BOJ 1068(트리)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1068(%ED%8A%B8%EB%A6%AC).cpp)
   </details>
+  <details>
+    <summary>day 02</summary>
+
+  - [BOJ 11403(경로찾기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B11403(%EA%B2%BD%EB%A1%9C%EC%B0%BE%EA%B8%B0).cpp)
+  - [BOJ 16953(A->B)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B16953(A-B).cpp)
+  - [BOJ 11559(뿌요뿌요)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B11559(%EB%BF%8C%EC%9A%94%EB%BF%8C%EC%9A%94).cpp)
+  - [BOJ 1149(RGB거리)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1149(RGB%EA%B1%B0%EB%A6%AC).cpp)
+  </details>
 </details>
