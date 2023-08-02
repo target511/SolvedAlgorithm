@@ -1,6 +1,6 @@
 ## Solved Algorithm Problems (2023)
 <details>
-  <summary>07.</summary>
+  <summary>07</summary>
   
   <details>
     <summary>day 17</summary>
