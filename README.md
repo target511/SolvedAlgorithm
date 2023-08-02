@@ -111,6 +111,8 @@
   <details>
     <summary>day 01</summary>
 
-    
+  - [BOJ 13023(ABCDE)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B13023(ABCDE).cpp)
+  - [BOJ 2668(숫자고르기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B2668(%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0).cpp)
+  - [BOJ 1068(트리)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1068(%ED%8A%B8%EB%A6%AC).cpp)
   </details>
 </details>
