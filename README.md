@@ -154,7 +154,7 @@
   - [BOJ 11559(뿌요뿌요)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B11559(%EB%BF%8C%EC%9A%94%EB%BF%8C%EC%9A%94).cpp)
   - [BOJ 1915(최소비용구하기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1915(%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0).cpp)
   - [BOJ 1654(랜선자르기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1654(%EB%9E%9C%EC%84%A0%EC%9E%90%EB%A5%B4%EA%B8%B0).cpp)
-  - [BOJ 15654(N과M 5)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B15654(N%EA%B3%BCM5).cpp
+  - [BOJ 15654(N과M 5)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B15654(N%EA%B3%BCM5).cpp)
   - [BOJ 15657(N과M 8)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B15657(N%EA%B3%BCM8).cpp)
   </details>
   <details>
