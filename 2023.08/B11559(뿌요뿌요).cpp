@@ -104,22 +104,3 @@ int main() {
 
 	return 0;
 }
-
-
-//void printMap() {
-//	for (int n = 0; n < N; n++) {
-//		for (int m = 0; m < M; m++) {
-//			cout << map[n][m] << ' ';
-//		}
-//		cout << '\n';
-//	}
-//}
-//
-//void printVisit() {
-//	for (int n = 0; n < N; n++) {
-//		for (int m = 0; m < M; m++) {
-//			cout << visit[n][m] << ' ';
-//		}
-//		cout << '\n';
-//	}
-//}
