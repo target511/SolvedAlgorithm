@@ -123,4 +123,81 @@
   - [BOJ 11559(뿌요뿌요)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B11559(%EB%BF%8C%EC%9A%94%EB%BF%8C%EC%9A%94).cpp)
   - [BOJ 1149(RGB거리)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1149(RGB%EA%B1%B0%EB%A6%AC).cpp)
   </details>
+  <details>
+    <summary>day 03</summary>
+
+  - [BOJ 1463(1로만들기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1463(1%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0).cpp)
+  - [BOJ 2579(계단오르기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B2579(%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0).cpp)
+  - [BOJ 10844(계단수)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B10844(%EA%B3%84%EB%8B%A8%EC%88%98).cpp)
+  - [BOJ 1932(정수삼각형)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1932(%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95).cpp)
+  - [BOJ 11057(오르막수)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B11057(%EC%98%A4%EB%A5%B4%EB%A7%89%EC%88%98).cpp)
+  </details>
+  <details>
+    <summary>day 04</summary>
+    
+  - [BOJ 2156(포도주시식)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B2156(%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8B%9C%EC%8B%9D).cpp)
+  - [BOJ 1309(동물원)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1309(%EB%8F%99%EB%AC%BC%EC%9B%90).cpp)
+  - [BOJ 9012(괄호)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B9012(%EA%B4%84%ED%98%B8).cpp)
+  - [BOJ 1003(피보나치함수)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1003(%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%ED%95%A8%EC%88%98).cpp)
+  - [BOJ 9461(파도반수열)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B9461(%ED%8C%8C%EB%8F%84%EB%B0%98%EC%88%98%EC%97%B4).cpp)
+  - [BOJ 2133(타일채우기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B2133(%ED%83%80%EC%9D%BC%EC%B1%84%EC%9A%B0%EA%B8%B0).cpp)
+  </details>
+  <details>
+    <summary>day 05</summary>
+
+  - [BOJ 2096(내려가기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B2096(%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0).cpp)
+  - [BOJ 5430(AC)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B5430(AC).cpp)
+  </details>
+  <details>
+    <summary>day 06</summary>
+
+  - [BOJ 11559(뿌요뿌요)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B11559(%EB%BF%8C%EC%9A%94%EB%BF%8C%EC%9A%94).cpp)
+  - [BOJ 1915(최소비용구하기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1915(%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0).cpp)
+  - [BOJ 1654(랜선자르기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1654(%EB%9E%9C%EC%84%A0%EC%9E%90%EB%A5%B4%EA%B8%B0).cpp)
+  - [BOJ 15654(N과M 5)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B15654(N%EA%B3%BCM5).cpp
+  - [BOJ 15657(N과M 8)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B15657(N%EA%B3%BCM8).cpp)
+  </details>
+  <details>
+    <summary>day 07</summary>
+
+  - [BOJ 15663(N과M 9)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B15663(N%EA%B3%BCM9).cpp)
+  - [BOJ 9465(스티커)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B9465(%EC%8A%A4%ED%8B%B0%EC%BB%A4).cpp)
+  - [BOJ 17144(미세먼지)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B17144(%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80).cpp)
+  - [BOJ 11399(ATM)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B11399(ATM).cpp)
+  - [BOJ 1158(요세푸스문제)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1158(%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%EB%AC%B8%EC%A0%9C).cpp)
+  - [BOJ 2493(탑)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B2493(%ED%83%91).cpp)
+  - [BOJ 6603(로또)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B6603(%EB%A1%9C%EB%98%90).cpp)
+  - [BOJ 1931(회의실배정)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1931(%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95).cpp)
+  </details>
+  <details>
+    <summary>day 08</summary>
+
+  - [BOJ 1620(나는야포켓몬마스터이다솜)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1620(%EB%82%98%EB%8A%94%EC%95%BC%ED%8F%AC%EC%BC%93%EB%AA%AC%EB%A7%88%EC%8A%A4%ED%84%B0%EC%9D%B4%EB%8B%A4%EC%86%9C).cpp)
+  - [BOJ 11723(집합)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B11723(%EC%A7%91%ED%95%A9).cpp)
+  - [BOJ 15686(치킨배달)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B15686(%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC).cpp)
+  - [BOJ 9019(DSLR)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B9019(DSLR).cpp)
+  - [BOJ 11047(동전0)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B11047(%EB%8F%99%EC%A0%840).cpp)
+  - [BOJ 16926(배열돌리기1)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B16926(%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B01).cpp)
+  - [BOJ 14888(연산자끼워넣기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B14888(%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0).cpp)
+  - [BOJ 1074(Z)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1074(Z).cpp)
+  </details>
+  <details>
+    <summary>day 09</summary>
+
+  - [SWEA 1861(정사각형방)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/SWEA1861(%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%EB%B0%A9).cpp)
+  - [SWEA 4530(극한의청소작업)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/SWEA4530(%EA%B7%B9%ED%95%9C%EC%9D%98%EC%B2%AD%EC%86%8C%EC%9E%91%EC%97%85).cpp)
+  - [BOJ 16935(배열돌리기3)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B16935(%EB%B0%B0%EC%97%B4%EB%8F%8C%EB%A6%AC%EA%B8%B03).cpp)
+  - [BOJ 1194(달이차오른다)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1194(%EB%8B%AC%EC%9D%B4%EC%B0%A8%EC%98%A4%EB%A5%B8%EB%8B%A4).cpp)
+  </details>
+  <details>
+    <summary>day 10</summary>
+
+  - [BOJ 2567(색종이2)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B2567(%EC%83%89%EC%A2%85%EC%9D%B42).cpp)
+  - [BOJ 3190(뱀)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B3190(%EB%B1%80).cpp)
+  - [BOJ 12891(DNA비밀번호)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B12891(DNA%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8).cpp)
+  - [BOJ 1992(쿼드트리)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1992(%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC).cpp)
+  - [BOJ 17070(파이프옮기기1,2)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B17070(%ED%8C%8C%EC%9D%B4%ED%94%84%EC%98%AE%EA%B8%B0%EA%B8%B02).cpp)
+  - [BOJ 14891(톱니바퀴)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B14891(%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4).cpp)
+  - [BOJ 1938(통나무옮기기)](https://github.com/target511/SolvedAlgorithm/blob/main/2023.08/B1938(%ED%86%B5%EB%82%98%EB%AC%B4%EC%98%AE%EA%B8%B0%EA%B8%B0).cpp)
+  </details>
 </details>
